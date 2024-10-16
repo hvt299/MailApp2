@@ -1,9 +1,10 @@
-# XÂY DỰNG ỨNG DỤNG MAILAPP BẰNG JAVA SWING + MYSQL
+# XÂY DỰNG ỨNG DỤNG MAILAPP BẰNG JAVA SWING + MYSQL + UDP PROTOCOL
 ## Tổng quan
 * Ứng dụng sẽ giúp bạn gửi và nhận thư với nhau thông qua mạng LAN.
 ## Các công nghệ được sử dụng
 * Ngôn ngữ: Java.
 * Cơ sở dữ liệu: MySQL.
+* Giao thức mạng: UDP.
 ## Chức năng
 * Đăng nhập, đăng ký tài khoản.
 * Đọc thư.
